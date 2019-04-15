@@ -1,0 +1,17 @@
+body{
+	margin: 0px;
+}
+
+.logo-text{
+	margin-left: 48%;
+	margin-right: 52%;
+	font-weight: bold;
+	color: white;
+}
+
+.container-top{
+	position: relative;
+    background-color: blue;
+    height: 68px;
+    padding-top: 20px;
+}
